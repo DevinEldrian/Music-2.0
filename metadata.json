@@ -1,0 +1,6 @@
+{
+  "name": "Aura Sound - High-Fidelity Music Player",
+  "description": "An audiophile-grade music player with frosted glass design, real-time visualizers, 5-band parametric equalizer, playlist management, and Google Drive cloud database storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
